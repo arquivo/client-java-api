@@ -1,9 +1,6 @@
 
 # TextSearch API Client
 
-<a href="https://media.giphy.com/media/cdXgU3mIhVTgXdHzA2/source.gif"><img src="https://media.giphy.com/media/cdXgU3mIhVTgXdHzA2/source.gif"></a>
-
-
 ## Requirements
 
 [Eclipse](http://www.eclipse.org) as IDE (if you want to use another, you must adapt the following instructions)
